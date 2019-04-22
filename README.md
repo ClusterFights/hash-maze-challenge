@@ -134,8 +134,3 @@ infinite loop that exits when we can\'t reverse a hash.
 ` `\
 `print(find_password(sys.argv[1], sys.argv[2]))`
 
-Files
------
-
-[01\_trivial\_solution.py](https://gist.github.com/tetsuharu/082ad4c000fd484e251a3fba574aeedd/raw/6d6d4a8191d451b282710607857e013a8e4d65be/01_trivial_solution.py)
-[hash\_maze\_generator.py](https://gist.github.com/tetsuharu/082ad4c000fd484e251a3fba574aeedd/raw/6d6d4a8191d451b282710607857e013a8e4d65be/hash_maze_generator.py)
